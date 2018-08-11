@@ -1,1 +1,3 @@
-# zsmith3.github.io
+# Z Smith Github Pages
+
+A site to show off demos of my projects.
