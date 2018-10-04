@@ -1,4 +1,4 @@
-<style>.gh-link { color: #159957; line-height: 2.5em; font-size: 1rem; margin-right: 10px; } @media only screen and (min-width: 800px) { .gh-link { float: right; margin-top: -55px; } .gh-link + .gh-link { margin-right: 140px; } } @media only screen and (max-width: 800px) { .main-content h2 { margin-bottom: 0.25rem; } .gh-link + p { margin-top: 0.25em; } }</style>
+<style>.gh-link { color: #159957; line-height: 2.5em; font-size: 1rem; margin-right: 10px; } @media only screen and (min-width: 800px) { .gh-link { float: right; margin-top: -55px !important; } .gh-link + .gh-link { margin-right: 140px; } } @media only screen and (max-width: 800px) { .main-content h2 { margin-bottom: 0.25rem; } .main-content h2 + p { margin: 0; } .main-content h2 + p + p { margin-top: 0.25em; } }</style>
 
 # My Projects
 
