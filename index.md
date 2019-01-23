@@ -4,10 +4,11 @@
 
 Here are some open source projects which I've worked on, mostly alone.
 
-## Photo Manager/Fileserver
-<a href="https://github.com/zsmith3/Photo-Manager-Fileserver" class="gh-link">View on GitHub</a>
+## Remote Photo Management System
+<a href="https://github.com/zsmith3/Photo-Manager-Client" class="gh-link">View on GitHub</a>
+<a href="https://zsmith3.github.io/Photo-Manager-Client/" class="gh-link">View Homepage</a>
 
-This is currently the main project I'm working on. Originally inspired by a desire to synchronise photos on a phone and desktop computer without an intermediate cloud service, it now also aims to provide an open source photo management system, with powerful organisational tools. It is very much still in developement, but if you're interested in using it in some capacity, please get in touch (contributions are also greatly appreciated). At some point I'll try and make a working public demo available.
+This is currently the main project I'm working on. Originally inspired by a desire to synchronise photos on a phone and desktop computer without an intermediate cloud service, it now also aims to provide an open source photo management system, with powerful organisational tools. It is very much still in developement, but if you're interested in using it in some capacity, please get in touch (contributions are also greatly appreciated). There is a working public demo available at the homepage linked above.
 
 ## Music of Minecraft Chrome Extension
 <a href="https://github.com/zsmith3/Music-of-Minecraft-Chrome-Extension" class="gh-link">View on GitHub</a>
