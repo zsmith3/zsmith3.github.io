@@ -2,7 +2,7 @@
 
 # About Me
 
-I'm a first year undergraduate student in Mathematics at Cambridge University, with a strong interest in computer science. Aside from what is shown here, I have created lots of smaller projects, including a chat bot, scanned-photo-cropping utility and video games in Unity and Java. These days I particularly enjoy competitive programming contests, having won a bronze medal at the 2019 International Olympiad in Informatics.
+I'm a second year undergraduate student in Mathematics at Cambridge University, with a strong interest in computer science. Aside from what is shown here, I have created lots of smaller projects, including video games in Unity and Java, various websites, and a chat bot. These days I also enjoy competitive programming contests, having won a bronze medal at the 2019 International Olympiad in Informatics.
 
 # My Projects
 
@@ -18,6 +18,12 @@ This has been the main project I've worked on in the past several years. Origina
 <a href="https://github.com/zsmith3/Music-of-Minecraft-Chrome-Extension" class="gh-link">View on GitHub</a>
 
 I made this chrome extension for a friend, who wanted to be able to listen to ambient Minecraft music while browsing. It can be downloaded from the [Chrome Web Store](https://chrome.google.com/webstore/detail/music-of-minecraft/piidlenoacbeeecjfdkjcgcienfgnkjn).
+
+## Connect 4
+<a href="https://github.com/zsmith3/connect4" class="gh-link">View on GitHub</a>
+<a href="https://zsmith3.github.io/connect4/" class="gh-link">View Homepage</a>
+
+I made this simple online game of connect 4 in order to experiment with different AI strategies - although sadly haven't yet had the time to try implementing any interesting machine learning based approaches.
 
 # Other Projects
 
