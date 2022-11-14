@@ -2,7 +2,7 @@
 
 # About Me
 
-I'm a second year undergraduate student in Mathematics at Cambridge University, with a strong interest in computer science. Aside from what is shown here, I have created lots of smaller projects, including video games in Unity and Java, various websites, and a chat bot. These days I also enjoy competitive programming contests, having won a bronze medal at the 2019 International Olympiad in Informatics.
+I'm a part iii (fourth year) student in Mathematics at Cambridge University, with a strong interest in computer science. Aside from what is shown here, I have created lots of smaller projects, including video games in Unity and Java, various websites, and a chat bot. I've also enjoyed taking part in various competitive programming contests, having won a bronze medal at the 2019 International Olympiad in Informatics. In recent years, I have been focussing on my degree so unfortunately have not had much time for other programming projects (hence why this site is rarely updated). See also [my LinkedIn](https://www.linkedin.com/in/zak-smith-79b807256/).
 
 # My Projects
 
