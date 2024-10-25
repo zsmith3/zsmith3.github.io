@@ -2,6 +2,6 @@
 
 # About Me
 
-Since October 2023, I'm a PhD student under the supervision of Felix Joos in [Heidelberg](https://web.ifi.uni-heidelberg.de/tcs/smith). See also [my LinkedIn](https://www.linkedin.com/in/zak-smith-79b807256/).
+Since October 2023, I'm a PhD student under the supervision of Felix Joos in [Heidelberg](https://web.ifi.uni-heidelberg.de/tcs/smith), with a research focus on extremal and probabilistic combinatorics. See also [my LinkedIn](https://www.linkedin.com/in/zak-smith-79b807256/).
 
 I originally created this site to showcase [my programming projects](./projects), although in recent years these have rather fallen to the wayside.
