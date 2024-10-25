@@ -2,11 +2,11 @@
 
 # About Me
 
-I'm a part iii (fourth year) student in Mathematics at Cambridge University, with a strong interest in computer science. Aside from what is shown here, I have created lots of smaller projects, including video games in Unity and Java, various websites, and a chat bot. I've also enjoyed taking part in various competitive programming contests, having won a bronze medal at the 2019 International Olympiad in Informatics. In recent years, I have been focussing on my degree so unfortunately have not had much time for other programming projects (hence why this site is rarely updated). See also [my LinkedIn](https://www.linkedin.com/in/zak-smith-79b807256/).
+I'm a PhD Student, with a strong interest in computer science.  I've also enjoyed taking part in various competitive programming contests, having won a bronze medal at the 2019 International Olympiad in Informatics. In recent years, I have been focussing on my degree so unfortunately have not had much time for other programming projects (hence why this site is rarely updated). See also [my LinkedIn](https://www.linkedin.com/in/zak-smith-79b807256/).
 
 # My Projects
 
-Here are some open source projects which I've worked on, mostly alone.
+Here are some open source projects which I've worked on, mostly alone. Aside from what is shown here, I have created lots of smaller projects, including video games in Unity and Java, various websites, and a chat bot.
 
 ## Remote Photo Management System
 <a href="https://github.com/zsmith3/Photo-Manager-Client" class="gh-link">View on GitHub</a>
