@@ -2,13 +2,22 @@
 layout: default
 ---
 
-<style>.gh-link { color: #159957; line-height: 2.5em; font-size: 1rem; margin-right: 10px; } @media only screen and (min-width: 800px) { .gh-link { float: right; margin-top: -55px !important; } .gh-link + .gh-link { margin-right: 140px; } } @media only screen and (max-width: 800px) { .main-content h2 { margin-bottom: 0.25rem; } .main-content h2 + p { margin: 0; } .main-content h2 + p + p { margin-top: 0.25em; } }</style>
+<style>.gh-link { color: #159957; line-height: 2.5em; font-size: 1rem; margin-right: 10px; } @media only screen and (min-width: 800px) { .gh-link { float: right; margin-top: -55px !important; } .gh-link + .gh-link { margin-right: 140px; } } @media only screen and (max-width: 800px) { .main-content h2 { margin-bottom: 0.25rem; } .main-content h2 + p { margin: 0; } .main-content h2 + p + p { margin-top: 0.25em; } } .bio-img { display: inline-block; width: 34%; padding: 20px; } .bio-text{ display: inline-block; width: 65%; } @media screen and (max-width: 600px) { .bio-img { display: none; } .bio-text { width: 100%; } }</style>
 
-# About Me
+<div>
+    <div class="bio-text">
+        <h1>About Me</h1>
 
-I am a PhD student under the supervision of [Felix Joos](https://web.ifi.uni-heidelberg.de/tcs/joos) in [Heidelberg](https://web.ifi.uni-heidelberg.de/tcs/smith), hoping to defend at the end of 2026.
-I'm interested in extremal and probabilistic combinatorics, especially random graphs and processes, as well as their application to combinatorial problems such as embedding, colouring, and decompositions.
-Before coming to Heidelberg, I obtained my undergraduate and Masters degrees at the University of Cambridge.
+        <p>
+            I am a PhD student under the supervision of <a href="https://web.ifi.uni-heidelberg.de/tcs/joos">Felix Joos</a> in <a href="https://web.ifi.uni-heidelberg.de/tcs/smith">Heidelberg</a>, hoping to defend at the end of 2026.
+            I'm interested in extremal and probabilistic combinatorics, especially random graphs and processes, as well as their application to combinatorial problems such as embedding, colouring, and decompositions.
+            Before coming to Heidelberg, I obtained my undergraduate and Masters degrees at the University of Cambridge.
+        </p>
+    </div>
+    <div class="bio-img">
+        <img src="/assets/images/bio.jpg" alt="Photo of me" />
+    </div>
+</div>
 
 # Papers
 
